@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Now i try the github upload in new branch code this',
+      title: 'firebase project',
       // this code is very honestly best and virtuallay soft
       theme: ThemeData(
         primarySwatch: Colors.blue,
